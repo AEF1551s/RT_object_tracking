@@ -18,7 +18,7 @@ This repository is made to overview technologies and results from "Smart Compute
 * Shared memory Python for asyncronous frame reading
 * OpenGL for visualisation
 ## Working example
-<video controls src="/img/Untitled design.mp4" title="Title"></video>
+<video controls src="img/rt_tracking.mp4" title="Title"></video>
 ## Implementation
 This shows The TX/RX pair 
 ![alt text](img/image-1.png)
