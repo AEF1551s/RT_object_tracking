@@ -17,8 +17,9 @@ This repository is made to overview technologies and results from "Smart Compute
 * Raw video capture using PCI-E capture card C/C++ sdk
 * Shared memory Python for asyncronous frame reading
 * OpenGL for visualisation
-## Working example
-<video controls src="img/rt_tracking_res.mp4" title="Title"></video>
+## Working example  
+
+https://github.com/user-attachments/assets/3cbfc4b9-5b08-4376-83fb-6a6ec9037e73
 
 ## Implementation
 This shows The TX/RX pair 
